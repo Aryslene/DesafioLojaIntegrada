@@ -4,7 +4,7 @@ Foi utilizado o Cypress na realização desse desafio
 
 ### Instalar dependências
 ```bash
-npx install
+npm install
 ```
 ### Rodar suits de teste 
 ```bash
